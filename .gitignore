@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# venv
+venv/
+
+# instruction files
+mp2-*.md
+
+# diagram
+mp2-api-map.html
